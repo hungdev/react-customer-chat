@@ -12,6 +12,7 @@ npm install react-customer-chat --save
 
 ## [Setting Up the Plugin](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin#steps)
 
+Option 1: Setup Using Developer Steps
 1. Click `Settings` at the top of your Page
 2. Click `Messenger Platform` on the left
 3. Edit whitelisted domains for your page in the `Whitelisted Domains` section
