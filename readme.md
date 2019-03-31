@@ -15,7 +15,7 @@ Simple component integrate facebook customer chat plugin to your react web
 npm install react-customer-chat --save
 ```
 
-# Setting Up the Plugin
+## [Setting Up the Plugin](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin#steps)
 
 1. Click `Settings` at the top of your Page
 2. Click `Messenger Platform` on the left
@@ -24,6 +24,12 @@ npm install react-customer-chat --save
 <p align="center">
   <img src="./assets/guide1.png" width='100%'/>
 </p>
+
+Option 2: Using the Setup Tool
+1. Go to Page Settings > Messenger Platform
+2. In the 'Customer Chat Plugin' section, click the 'Set Up' Button.
+
+The setup tool provides a simple UI for customizing the greeting message, theme color, displayed response time, and setting the whitelisted domains for the plugin.
 
 > See more details in [Customer Chat Plugin official docs](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin) and [Customer Chat SDK official docs](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk).
 
