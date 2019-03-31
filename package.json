@@ -9,6 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungdev/react-customer-chat.git"
+  },
   "keywords": [
     "Facebook",
     "Message",
@@ -17,5 +21,9 @@
     "Plugin"
   ],
   "author": "hungdev",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungdev/react-customer-chat/issues"
+  },
+  "homepage": "https://github.com/hungdev/react-customer-chat#readme"
 }
