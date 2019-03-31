@@ -2,12 +2,7 @@
 
 Simple component integrate facebook customer chat plugin to your react web
 
-<p align="center">
-  <img src="./assets/ss1.png" width='100%'/>
-</p>
-<p align="center">
-  <img src="./assets/ss2.png" width='100%'/>
-</p>
+<img src="https://github.com/hungdev/react-customer-chat/blob/master/assets/intro.gif?raw=true"/>
 
 # Install
 
