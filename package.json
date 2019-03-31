@@ -1,0 +1,21 @@
+{
+  "name": "react-customer-chat",
+  "version": "1.0.0",
+  "description": "React Facebook Customer Chat Plugin",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Facebook",
+    "Message",
+    "Customer",
+    "Chat",
+    "Plugin"
+  ],
+  "author": "hungdev",
+  "license": "MIT"
+}
