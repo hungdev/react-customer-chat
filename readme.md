@@ -25,6 +25,8 @@ Option 2: Using the Setup Tool
 2. In the 'Customer Chat Plugin' section, click the 'Set Up' Button.
 
 The setup tool provides a simple UI for customizing the greeting message, theme color, displayed response time, and setting the whitelisted domains for the plugin.
+[see more](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin#setup_tool)
+
 
 > See more details in [Customer Chat Plugin official docs](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin) and [Customer Chat SDK official docs](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk).
 
